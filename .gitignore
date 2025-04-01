@@ -1,0 +1,22 @@
+# Ignore all image files
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.bmp
+*.tiff
+*.tif
+*.webp
+*.svg
+*.heic
+*.arw  # RAW format for Sony
+*.cr2  # RAW format for Canon
+*.nef  # RAW format for Nikon
+*.dng  # RAW format for Adobe
+*.ARW
+
+# Ignore virtual environments
+venv/
+.venv/
+myenv
+.myenv/
